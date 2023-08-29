@@ -51,3 +51,14 @@ o	About how many terrestrial (Earth) days exist in a Martian year? To answer thi
 	Consider how many days elapse on Earth in the time that Mars circles the Sun once.<br>
 	Visually estimate the result by plotting the daily minimum temperature.<br>
 6.	Export the DataFrame to a CSV file.<br>
+
+
+Sources:<br>
+
+Python Tutorial. (n.d.). https://www.w3schools.com/python/<br>
+
+Stack Overflow - Where Developers Learn, Share, & Build Careers. (n.d.). Stack Overflow. https://stackoverflow.com/<br>
+
+https://chat.openai.com/: used to help debug problematic for loop.<br>
+
+Starter code given from boot camp class and instructions<br>
